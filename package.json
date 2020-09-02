@@ -1,12 +1,12 @@
 {
 	"name": "leaflet.markercluster",
 	"repository": "https://github.com/Leaflet/Leaflet.markercluster",
-	"version": "1.4.1",
-	"description": "Provides Beautiful Animated Marker Clustering functionality for Leaflet",
+	"version": "1.4.2",
+	"description": "Fork to overcome lack of releases",
 	"devDependencies": {
 		"git-rev-sync": "^1.8.0",
 		"happen": "^0.3.1",
-		"jake": "8.0.19",
+		"jake": "^8.0.19",
 		"jshint": "^2.9.4",
 		"karma": "4.0.0",
 		"karma-chrome-launcher": "^2.0.0",

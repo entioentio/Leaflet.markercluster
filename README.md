@@ -1,6 +1,12 @@
 Leaflet.markercluster
 =====================
 
+**This is a fork of markercluster plugin**
+
+**Markercluster repository is not updated anymore, yet on master branch there are some interesting features. This fork exists to overcome lack of releases.**
+
+### USE AT YOUR OWN RISK
+
 Provides Beautiful Animated Marker Clustering functionality for [Leaflet](http://leafletjs.com), a JS library for interactive maps.
 
 *Requires Leaflet 1.0.0*
